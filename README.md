@@ -28,5 +28,5 @@ This configuration is free; you can redistribute it and/or modify
 it under the same terms as Vim itself, either Vim version 7.4.
 
 ![alt tag](https://raw.githubusercontent.com/vroncevic/vim_rc/master/vim_logo.png)
-![alt tag](https://raw.githubusercontent.com/vroncevic/vim_rc/master/linux_logo.jpg)
+![alt tag](https://raw.githubusercontent.com/vroncevic/vim_rc/master/linux_logo.png)
 
