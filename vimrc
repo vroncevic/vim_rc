@@ -126,7 +126,7 @@ set tw=500
 set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
-set colorcolumn=80 "Vertical line
+set colorcolumn=79 "Vertical line
 
 
 """"""""""""""""""""""""""""""
