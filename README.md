@@ -1,34 +1,35 @@
-# vimrc - Vim configuration file.
+# vimrc - vim configuration file
 
 The README is used to introduce the tool configuration and provide instructions
 on how to set vim configuration, any machine dependencies it may have and any
-other information that should be provided before the configuration is
-installed.
+other information that should be provided before the configuration is installed.
 
 ### INSTALLATION
 
-To install this rc file type the following:
+To install this rc file type the following
 
-```
+```bash
 cp vimrc   /home/${USER}/.vimrc
+cp vimrc   /root/.vimrc
 ```
 
 ### DEPENDENCIES
 
     * None
 
-This configuration is for:
+This configuration is for
 
-	VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Mar 10 2017 00:51:06)
-	Included patches: 1-488, 576
-	Extra patches: 8.0.0378, 8.0.0377, 8.0.0322, 8.0.0056
+```bash
+VIM - Vi IMproved 9.0 (2022 Jun 28, compiled May 04 2023 10:24:44)
+Included patches: 1-1378, 1499
+Modified by team+vim@tracker.debian.org
+Compiled by team+vim@tracker.debian.org
+```
 
 ### COPYRIGHT AND LICENCE
 
-Copyright (C) 2018 by http://vroncevic.github.io/vim_rc
+Copyright (C) 2018 - 2024 by http://vroncevic.github.io/vim_rc
 
 This configuration is free; you can redistribute it and/or modify
-it under the same terms as Vim itself, either Vim version 7.4.
-
-:sparkles:
+it under the same terms as Vim itself, either Vim version 9.0.
 
