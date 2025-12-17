@@ -9,8 +9,8 @@ other information that should be provided before the configuration is installed.
 To install this rc file type the following
 
 ```bash
-cp vimrc   /home/${USER}/.vimrc
-cp vimrc   /root/.vimrc
+cp vimrc /home/${USER}/.vimrc
+sudo cp vimrc /root/.vimrc
 ```
 
 ### DEPENDENCIES
@@ -28,7 +28,7 @@ Compiled by team+vim@tracker.debian.org
 
 ### COPYRIGHT AND LICENCE
 
-Copyright (C) 2018 - 2024 by http://vroncevic.github.io/vim_rc
+Copyright (C) 2018 - 2026 by http://vroncevic.github.io/vim_rc
 
 This configuration is free; you can redistribute it and/or modify
 it under the same terms as Vim itself, either Vim version 9.0.
